@@ -1,6 +1,6 @@
 # THE ROCKS METAVERSE GAMES
 The blockchain games involve collecting rare NFT based badass Rock creatures and using them to play, battle and trade with Others all over the world.   
-Contract Address: https://bscscan.com/address/0xe9B57E6f3Bd717E0A4dEba15DB509af583671b01   
+Contract Address: https://bscscan.com/address/0xD301fC0F091d87f59Db47e0C7255c967c55CDd96.  
 Please visit for more detail: https://therocks.io/
 ## Tokenomics
 TOTAL SUPPLY: 21,000,000.  
