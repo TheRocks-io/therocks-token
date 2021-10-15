@@ -3,19 +3,7 @@ The blockchain games involve collecting rare NFT based badass Rock creatures and
 Contract Address: https://bscscan.com/address/0xD301fC0F091d87f59Db47e0C7255c967c55CDd96.  
 Please visit for more detail: https://therocks.io/
 ## Tokenomics
-TOTAL SUPPLY: 21,000,000.  
-Whitelist: 500.000. 2,38% No Tax.  
-
-Presale DX Sale.  
-2.000.000 - 9,52% (5% Tax on buy & sell).  
-
-Liquidity Pool
-1.900.000
-9,05% Locked in 12 months
-
-Game Development.  
-2,100,000.  
-10% Locked, 24 months unlock schedule.  
+![image](https://user-images.githubusercontent.com/91370489/137439859-043d1145-0b00-468c-8271-cc91787843a3.png)
 
 ## Play to Earn
 14.500.000.  
